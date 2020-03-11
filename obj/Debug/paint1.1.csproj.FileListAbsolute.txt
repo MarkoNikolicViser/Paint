@@ -1,0 +1,9 @@
+C:\Users\Marko\source\repos\paint1.1\paint1.1\bin\Debug\paint1.1.exe.config
+C:\Users\Marko\source\repos\paint1.1\paint1.1\bin\Debug\paint1.1.exe
+C:\Users\Marko\source\repos\paint1.1\paint1.1\bin\Debug\paint1.1.pdb
+C:\Users\Marko\source\repos\paint1.1\paint1.1\obj\Debug\paint1.1.csprojAssemblyReference.cache
+C:\Users\Marko\source\repos\paint1.1\paint1.1\obj\Debug\paint1._1.Form1.resources
+C:\Users\Marko\source\repos\paint1.1\paint1.1\obj\Debug\paint1._1.Properties.Resources.resources
+C:\Users\Marko\source\repos\paint1.1\paint1.1\obj\Debug\paint1.1.csproj.GenerateResource.cache
+C:\Users\Marko\source\repos\paint1.1\paint1.1\obj\Debug\paint1.1.exe
+C:\Users\Marko\source\repos\paint1.1\paint1.1\obj\Debug\paint1.1.pdb
